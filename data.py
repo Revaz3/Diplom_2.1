@@ -25,5 +25,5 @@ class Data:
     # Данные для проверки сценариев создания пользователя без одного из атрибутов
     param = 'body'
     value = [{'email': '', 'password': '1111111', 'name': 'Олег'},
-             {'email': 'test12312@ya.ru', 'password': '', 'name': 'Петр'},
-             {'email': 'test12312@ya.ru', 'password': '1111111', 'name': ''}]
+             {'email': 'r@ya.ru', 'password': '', 'name': 'Марк'},
+             {'email': 'r2@ya.ru', 'password': '1111111', 'name': ''}]
